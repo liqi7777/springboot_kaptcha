@@ -9,6 +9,7 @@ public class KaptchaSpringBootTestApplication {
     public static void main(String[] args) {
         SpringApplication.run(KaptchaSpringBootTestApplication.class, args);
 
+
     }
 
 }
